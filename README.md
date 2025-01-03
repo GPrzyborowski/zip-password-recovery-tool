@@ -18,3 +18,6 @@ The Zip Password Recovery Tool is a utility that uses a brute-force method to re
 1. Select the character set that matches your password criteria.
 2. Specify the maximum length of the password to test.
 3. Choose the ZIP file you wish to recover.
+
+####
+The project is still under development. Various libraries and programming languages will be explored to achieve the highest possible efficiency.
