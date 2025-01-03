@@ -1,1 +1,20 @@
-# zip-password-recovery-tool
+# Zip Password Recovery Tool
+
+## Important Note
+This tool is intended for personal and lawful use only. Users are fully responsible for ensuring their actions comply with applicable laws and regulations. The author explicitly disclaims any liability for the manner in which the tool is used.
+
+### Description
+The Zip Password Recovery Tool is a utility that uses a brute-force method to recover lost passwords for ZIP archives.
+
+### Features
+- **Customizable Character Sets:** Users can select the type of characters included in the password:
+  - Standard (lowercase letters and numbers)
+  - Standard + Uppercase
+  - Standard + Uppercase + Special Characters
+- **Maximum Password Length:** Define the maximum password length for testing to tailor the process to your needs.
+- **File Selection:** Easily choose a ZIP file from your disk for password recovery.
+
+### Usage
+1. Select the character set that matches your password criteria.
+2. Specify the maximum length of the password to test.
+3. Choose the ZIP file you wish to recover.
