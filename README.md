@@ -19,5 +19,11 @@ The Zip Password Recovery Tool is a utility that uses a brute-force method to re
 2. Specify the maximum length of the password to test.
 3. Choose the ZIP file you wish to recover.
 
+### Password break time tests
+All tests are conducted as worst-case scenarios, meaning the password may consist of standard, uppercase, and special characters. Additionally, test-case passwords are deliberately chosen from the end of the hard-coded array.  
+
+Java:
+Two character password: 38 seconds
+
 ####
 The project is still under development. Various libraries and programming languages will be explored to achieve the highest possible efficiency.
